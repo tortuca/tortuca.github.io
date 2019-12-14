@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tortuca</title>
-    <link>http://tortuca.github.io/tags/</link>
+    <link>https://tortuca.github.io/tags/</link>
     <description>Recent content in Tags on tortuca</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://tortuca.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tortuca.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
