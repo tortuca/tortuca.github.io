@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tortuca</title>
+    <link>http://tortuca.github.io/</link>
+    <description>Recent content on tortuca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate>
+    
+	<atom:link href="http://tortuca.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amanda Chow</title>
+      <link>http://tortuca.github.io/tortuca/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://tortuca.github.io/tortuca/</guid>
+      <description>Data Architect in Certis Group, Singapore. I write code and glue things together. github</description>
+    </item>
+    
+  </channel>
+</rss>
