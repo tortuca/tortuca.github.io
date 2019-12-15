@@ -1,0 +1,65 @@
+/* your styles go here */
+/* type */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #000000;
+}
+h1,
+.h1 {
+  font-size: 32px;
+}
+h2,
+.h2 {
+  font-size: 28px;
+}
+h3,
+.h3 {
+  font-size: 22px;
+  font-weight: 700;
+}
+h4,
+.h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+h5,
+.h5 {
+  font-size: 16px;
+  font-weight: 700;
+}
+h6,
+.h6 {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.sidebar-about {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  color: #999999; 
+  font-size: 14px;
+  margin: 0;
+}
+.sidebar-menu {
+  list-style-type: none;
+  padding-left: 20px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+body {
+  background-color: #d0d7da;
+  overflow-x: hidden;
+}

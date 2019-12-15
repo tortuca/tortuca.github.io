@@ -3,93 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tortuca.github.io/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tortuca.github.io/portfolio/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tortuca.github.io/</loc>
-    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/categories/aws/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/aws/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://tortuca.github.io/categories/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/categories/cloud/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/cloud/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/post/cloud-technology/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/categories/maps/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/maps/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/post/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/singapore/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tortuca.github.io/tags/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/post/maps-deckgl/</loc>
-    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/categories/android/</loc>
-    <lastmod>2011-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/android/</loc>
-    <lastmod>2011-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/tags/game/</loc>
-    <lastmod>2011-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/post/holoken/</loc>
-    <lastmod>2011-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tortuca.github.io/post/maps-elections/</loc>
-    <lastmod>2011-09-14T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
